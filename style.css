@@ -1,0 +1,67 @@
+body{
+    background-image:url("/images/desktop-1920x1080.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.title{
+    text-align: center;
+    font-size: 300%;
+    /* font-family: 'Alkatra', cursive; */
+}
+hr.new1{
+   border: 3px, solid, black;
+}
+
+#main-image{
+    margin-left: 37%;
+    border-radius: 30%;
+    width: 25%;
+    font-size: larger;
+}
+#main-dates{
+    text-align: center;
+    color: rgb(8, 7, 7);
+    font-size: x-large;
+
+}
+.paragraph{
+    font-family: 'Alkatra', cursive;
+    /* text-align: center; */
+    font-size: x-large;
+    /* color:rgb(50, 42, 26); */
+    font-weight: 500;
+    background-color: rgba(138, 138, 138, 0.657);
+    
+}
+/* .quote{
+    font-family: 'Alkatra', cursive;
+    text-align: center;
+    font-size: larger;
+    /* color:rgb(50, 42, 26); 
+    font-weight: 500;
+    background-color: rgba(138, 138, 138, 0.657);
+}
+     */
+
+.paragraph-year{
+    font-family: 'Alkatra', cursive;
+    text-align: center;
+    font-size: x-large;
+    /* color:rgb(50, 42, 26); */
+    font-weight: 500;
+    background-color: rgba(138, 138, 138, 0.657);
+
+}
+.rosa-quote{
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    /* text-align: center; */
+    font-size: x-large;
+    /* color:rgb(50, 42, 26); */
+    font-weight: 500;
+}
+.hr{
+    color:black;
+}
